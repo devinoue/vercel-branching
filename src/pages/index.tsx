@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
       <main>
         <div>
-          test
+          test2
           <br />
           NEXT_PUBLIC_API_BASE_URL: {process.env.NEXT_PUBLIC_API_BASE_URL}
           <br />
