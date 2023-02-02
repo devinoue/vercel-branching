@@ -11,6 +11,8 @@ export default function Home() {
       </Head>
       <main>
         <div>
+          test2
+          <br />
           NEXT_PUBLIC_API_BASE_URL: {process.env.NEXT_PUBLIC_API_BASE_URL}
           <br />
           Vercel上の環境: {process.env.NEXT_PUBLIC_VERCEL_ENV}
