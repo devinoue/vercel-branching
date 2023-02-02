@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        ADD Staging NEXT_PUBLIC_API_BASE_URL:{" "}
+        Test NEXT_PUBLIC_API_BASE_URL:
         {process.env.NEXT_PUBLIC_API_BASE_URL}
         <br />
         API_URL: {process.env.API_URL}
